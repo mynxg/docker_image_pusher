@@ -1,1 +1,1 @@
-docker.umami.is/umami-software/umami:postgresql-latest
+docker.umami.is/umami-software/umami:mysql-latest
