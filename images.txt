@@ -1,1 +1,2 @@
-docker.umami.is/umami-software/umami:mysql-latest
+#docker.umami.is/umami-software/umami:mysql-latest
+ghcr.io/monlor/xiaoya-alist:latest
